@@ -8,6 +8,7 @@
     "start": "node dist/server.js",
     "build": "tsc -p ."
   },
+  "license": "ISC",
   "dependencies": {
     "@types/node": "^18.11.10",
     "axios": "^1.2.0",
