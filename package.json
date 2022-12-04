@@ -9,6 +9,7 @@
     "build": "tsc -p ."
   },
   "dependencies": {
+    "@types/node": "^18.11.10",
     "axios": "^1.2.0",
     "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
